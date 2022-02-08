@@ -1,0 +1,19 @@
+{
+  "name": "app-learn_dev",
+  "version": "1.0.0",
+  "description": "Aprendendo Programação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdOliveiraJ/learn_dev.git"
+  },
+  "author": "Eduardo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdOliveiraJ/learn_dev/issues"
+  },
+  "homepage": "https://github.com/EdOliveiraJ/learn_dev#readme"
+}
